@@ -2,8 +2,8 @@
 
 Please fill out the following. You can fill in the project topic once you have decided.
 ```
-Name:
-Project topic:
+Name: Harro Rejewski
+Project topic: Algebra - Rings satisfying x3= x are commutative.
 ```
 
 ## Your own project
